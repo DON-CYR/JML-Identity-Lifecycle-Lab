@@ -121,6 +121,7 @@ John's time with the company has now officially ended and its time to offboard h
 Double checked and confirmed that John Carter's access is stripped and not assigned to any security groups and contain no other attributes related to his previous roles.
 
 ![8]
+
 ## Summary
 
 This lab demonstrated the complete Joiner, Mover and Leaver identity lifecycle using Entra ID. 
@@ -129,3 +130,11 @@ We showed the process when he was provisioned access upon his employment, had hi
 
 This is a very simplified version of the ID lifecycle process in a potential enterprise environment. 
 
+[1]:https://github.com/DON-CYR/JML-Identity-Lifecycle-Lab/blob/main/images/sc_1.png
+[2]:https://github.com/DON-CYR/JML-Identity-Lifecycle-Lab/blob/main/images/sc_2.png
+[3]:https://github.com/DON-CYR/JML-Identity-Lifecycle-Lab/blob/main/images/sc_3.png
+[4]:https://github.com/DON-CYR/JML-Identity-Lifecycle-Lab/blob/main/images/sc_4.png
+[5]:https://github.com/DON-CYR/JML-Identity-Lifecycle-Lab/blob/main/images/sc_5.png
+[6]:https://github.com/DON-CYR/JML-Identity-Lifecycle-Lab/blob/main/images/sc_6.png
+[7]:https://github.com/DON-CYR/JML-Identity-Lifecycle-Lab/blob/main/images/sc_7.png
+[8]:https://github.com/DON-CYR/JML-Identity-Lifecycle-Lab/blob/main/images/sc_8.png
